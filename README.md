@@ -1,2 +1,16 @@
-# FirebaseStorage
-Riverpodを使用して、画像のuploadとFireStoreに画像のpathを保存して、画面に描画するサンプルコード
+# FirebaseStorageのドキュメント
+## overview(概要)
+Riverpodを使用して、画像のuploadを行う。
+作者は、画像の機能を実装するのが、苦手だったので、
+今回、動くソースコードを参考に試行錯誤して、
+サンプルアプリを作成した。
+## getting started(入門)
+1. StatefulWidgeでアプリを作成して仕組みを理解する.
+2. Riverpodにリファクタリングする.
+## summary(要点、手短な)
+技術記事やドキュメントを見て、仕組みを理解して自分の
+使いたい機能を作れるようになるのが目的。
+
+## implement(実行する、実装する)
+1. まずは、動くコードを見て、仕組みを理解する.
+2. その後に状態管理をする。
